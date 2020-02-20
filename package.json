@@ -1,0 +1,5 @@
+{
+  "name": "dix",
+  "private": true,
+  "workspaces": ["server", "client"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@dix/server",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "dependencies": {
+    "apollo-server": "^2.10.1",
+    "firebase-admin": "^8.9.2",
+    "graphql": "^14.6.0"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.5"
+  }
+}
